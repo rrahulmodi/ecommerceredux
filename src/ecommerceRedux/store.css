@@ -1,0 +1,8 @@
+.product img {
+  height: 100px;
+  width: 100px;
+}
+.product {
+  display: flex;
+  flex-wrap: wrap;
+}
